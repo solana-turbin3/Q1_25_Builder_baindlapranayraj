@@ -10,3 +10,6 @@
 [submodule "AnchorVault"]
 	path = AnchorVault
 	url = https://github.com/baindlapranayraj/AnchorVault
+[submodule "AnchorEscrow"]
+	path = AnchorEscrow
+	url = https://github.com/baindlapranayraj/AnchorEscrow.git
