@@ -13,3 +13,6 @@
 [submodule "AnchorEscrow"]
 	path = AnchorEscrow
 	url = https://github.com/baindlapranayraj/AnchorEscrow.git
+[submodule "NFT-Marketplace"]
+	path = NFT-Marketplace
+	url = https://github.com/baindlapranayraj/NFT-Marketplace
