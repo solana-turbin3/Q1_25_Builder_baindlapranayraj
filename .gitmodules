@@ -19,3 +19,6 @@
 [submodule "half-baked-amm"]
 	path = half-baked-amm
 	url = https://github.com/baindlapranayraj/half-baked-amm
+[submodule "NFT-Stacking"]
+	path = NFT-Stacking
+	url = https://github.com/baindlapranayraj/NFT-Stacking
